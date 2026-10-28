@@ -1,0 +1,10 @@
+insertion
+main
+modifquicksort
+quicksort
+selection
+stablesort
+stdsort
+*.o
+*.out
+build/
