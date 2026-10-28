@@ -1,4 +1,4 @@
-# Algorithmes de tri
+# Comparaison de différents algorithmes de tri
 
 Projet réalisé dans le cadre de la SAÉ S1.02 « Démonstration d'algorithmes » (BUT Informatique).
 
